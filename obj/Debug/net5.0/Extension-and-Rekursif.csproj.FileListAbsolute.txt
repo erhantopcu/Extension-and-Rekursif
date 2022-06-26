@@ -1,0 +1,16 @@
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\bin\Debug\net5.0\Extension-and-Rekursif.exe
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\bin\Debug\net5.0\Extension-and-Rekursif.deps.json
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\bin\Debug\net5.0\Extension-and-Rekursif.runtimeconfig.json
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\bin\Debug\net5.0\Extension-and-Rekursif.runtimeconfig.dev.json
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\bin\Debug\net5.0\Extension-and-Rekursif.dll
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\bin\Debug\net5.0\Extension-and-Rekursif.pdb
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\obj\Debug\net5.0\Extension-and-Rekursif.csproj.AssemblyReference.cache
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\obj\Debug\net5.0\Extension-and-Rekursif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\obj\Debug\net5.0\Extension-and-Rekursif.AssemblyInfoInputs.cache
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\obj\Debug\net5.0\Extension-and-Rekursif.AssemblyInfo.cs
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\obj\Debug\net5.0\Extension-and-Rekursif.csproj.CoreCompileInputs.cache
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\obj\Debug\net5.0\Extension-and-Rekursif.dll
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\obj\Debug\net5.0\refint\Extension-and-Rekursif.dll
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\obj\Debug\net5.0\Extension-and-Rekursif.pdb
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\obj\Debug\net5.0\Extension-and-Rekursif.genruntimeconfig.cache
+C:\Users\erhnt\Desktop\Pratikler\Extension-and-Rekursif\obj\Debug\net5.0\ref\Extension-and-Rekursif.dll
